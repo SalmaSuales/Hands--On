@@ -1,3 +1,8 @@
+#Integrantes del Equipo:
+
+Salma Yanet Mercado Suales correo: Salma.mercado5517@alumnos.udg.mx codigo: 218551772
+
+Garcia Herrera Juan Pablo correo: juan.garcia3484@alumnos.udg.mx código: 214634843
 # Analizador Sintáctico para Subconjunto de C
 
 Este proyecto implementa un analizador léxico y sintáctico utilizando **Flex** y **Bison**.
