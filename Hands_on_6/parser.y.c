@@ -7,6 +7,7 @@
 extern int yylex();
 extern int yylineno;
 extern char *yytext;
+extern FILE *yyin;
 void yyerror(const char *s);
 
 /* --- ESTRUCTURAS PARA ANÁLISIS SEMÁNTICO --- */
@@ -335,4 +336,5 @@ int main(int argc, char **argv) {
         printf("\n\033[1;31m>> Falló el análisis.\033[0m\n");
     }
     return 0;
+
 }
